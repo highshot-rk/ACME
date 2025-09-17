@@ -20,3 +20,6 @@ To run the test suite (requires RSpec):
 ```bash
 rspec spec
 ```
+
+## Results
+<img width="622" height="191" alt="image" src="https://github.com/user-attachments/assets/bb79a157-8a11-427e-96d3-a3d27764a96e" />
